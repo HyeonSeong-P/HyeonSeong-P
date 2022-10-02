@@ -1,7 +1,7 @@
-### 📱 Android Developer 📱
+## 📱 Android Developer 📱
 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=HyeonSeong-P&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=HyeonSeong-P&fontSize=60)
 
 <!--
 **HyeonSeong-P/HyeonSeong-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
